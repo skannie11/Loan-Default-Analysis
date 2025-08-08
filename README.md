@@ -98,4 +98,4 @@ This dashboard analyzes **loan default patterns** based on various factors like 
 This dashboard can be shared via **Power BI Service**, embedded in internal portals, or exported for reports. It provides actionable insights for loan strategy optimization and default risk management.
 
 ---
-![Loan Dashboard](<img width="2000" height="1140" alt="Image" src="https://github.com/user-attachments/assets/8772f0c1-916a-403a-add1-22271d7ced1f" />)
+![Loan Dashboard](<img width="2000" height="1140" alt="Image" src="https://github.com/user-attachments/assets/26ed7d02-9ff3-49bd-a63a-c231cb0a7afc" />)
